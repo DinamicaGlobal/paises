@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1176pt" height="308pt" viewBox="0.00 0.00 1175.79 307.60">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 303.6)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-303.6 1171.7949,-303.6 1171.7949,4 -4,4"/>
+<!-- 1011 -->
+<g id="node1" class="node">
+<title>1011</title>
+<polygon fill="none" stroke="#008b00" points="130.4183,-171.4019 31.1035,-171.4019 27.1035,-167.4019 27.1035,-130.1981 126.4183,-130.1981 130.4183,-134.1981 130.4183,-171.4019"/>
+<polyline fill="none" stroke="#008b00" points="126.4183,-167.4019 27.1035,-167.4019 "/>
+<polyline fill="none" stroke="#008b00" points="126.4183,-167.4019 126.4183,-130.1981 "/>
+<polyline fill="none" stroke="#008b00" points="126.4183,-167.4019 130.4183,-171.4019 "/>
+<text text-anchor="middle" x="78.7609" y="-155" font-family="Times,serif" font-size="14.00" fill="#000000">1009 :: Xécora </text>
+<text text-anchor="middle" x="78.7609" y="-138.2" font-family="Times,serif" font-size="14.00" fill="#000000"> (1493 - 1722)</text>
+</g>
+<!-- 1010 -->
+<g id="node2" class="node">
+<title>1010</title>
+<polygon fill="none" stroke="#0000ff" points="446.0884,-97.6647 446.0884,-123.9353 374.497,-142.5113 273.2515,-142.5113 201.6601,-123.9353 201.6601,-97.6647 273.2515,-79.0887 374.497,-79.0887 446.0884,-97.6647"/>
+<polygon fill="none" stroke="#0000ff" points="450.0839,-94.5849 450.0839,-127.0151 375.0084,-146.4952 272.7402,-146.4952 197.6646,-127.0151 197.6646,-94.5849 272.7402,-75.1048 375.0084,-75.1048 450.0839,-94.5849"/>
+<polygon fill="none" stroke="#0000ff" points="454.0794,-91.505 454.0794,-130.095 375.5197,-150.4792 272.2288,-150.4792 193.6692,-130.095 193.6692,-91.505 272.2288,-71.1208 375.5197,-71.1208 454.0794,-91.505"/>
+<text text-anchor="middle" x="323.8743" y="-115" font-family="Times,serif" font-size="14.00" fill="#000000">1010 :: Imperio Español </text>
+<text text-anchor="middle" x="323.8743" y="-98.2" font-family="Times,serif" font-size="14.00" fill="#000000"> (1492 - Actualidad)</text>
+</g>
+<!-- 1011&#45;&gt;1010 -->
+<g id="edge1" class="edge">
+<title>1011-&gt;1010</title>
+<path fill="none" stroke="#008b00" d="M130.4436,-142.3659C147.5837,-139.5688 167.5415,-136.3119 188.0003,-132.9732"/>
+<polygon fill="#008b00" stroke="#008b00" points="188.7681,-136.3943 198.0738,-131.3293 187.6406,-129.4857 188.7681,-136.3943"/>
+</g>
+<!-- 1004 -->
+<g id="node3" class="node">
+<title>1004</title>
+<polygon fill="none" stroke="#008b00" points="691.0672,-97.6647 691.0672,-123.9353 634.6003,-142.5113 554.744,-142.5113 498.2771,-123.9353 498.2771,-97.6647 554.744,-79.0887 634.6003,-79.0887 691.0672,-97.6647"/>
+<polygon fill="none" stroke="#008b00" points="695.0651,-94.7845 695.0651,-126.8155 635.2431,-146.4952 554.1012,-146.4952 494.2792,-126.8155 494.2792,-94.7845 554.1012,-75.1048 635.2431,-75.1048 695.0651,-94.7845"/>
+<polygon fill="none" stroke="#008b00" points="699.063,-91.9043 699.063,-129.6957 635.886,-150.4792 553.4583,-150.4792 490.2813,-129.6957 490.2813,-91.9043 553.4583,-71.1208 635.886,-71.1208 699.063,-91.9043"/>
+<text text-anchor="middle" x="594.6721" y="-115" font-family="Times,serif" font-size="14.00" fill="#000000">1004 :: México </text>
+<text text-anchor="middle" x="594.6721" y="-98.2" font-family="Times,serif" font-size="14.00" fill="#000000"> (1821 - actualidad)</text>
+</g>
+<!-- 1010&#45;&gt;1004 -->
+<g id="edge2" class="edge">
+<title>1010-&gt;1004</title>
+<path fill="none" stroke="#008b00" d="M454.1175,-110.8C462.785,-110.8 471.4807,-110.8 480.0622,-110.8"/>
+<polygon fill="#008b00" stroke="#008b00" points="480.0753,-114.3001 490.0753,-110.8 480.0752,-107.3001 480.0753,-114.3001"/>
+</g>
+<!-- 1008 -->
+<g id="node5" class="node">
+<title>1008</title>
+<polygon fill="none" stroke="#008b00" points="899.266,-161.4019 784.1859,-161.4019 780.1859,-157.4019 780.1859,-120.1981 895.266,-120.1981 899.266,-124.1981 899.266,-161.4019"/>
+<polyline fill="none" stroke="#008b00" points="895.266,-157.4019 780.1859,-157.4019 "/>
+<polyline fill="none" stroke="#008b00" points="895.266,-157.4019 895.266,-120.1981 "/>
+<polyline fill="none" stroke="#008b00" points="895.266,-157.4019 899.266,-161.4019 "/>
+<text text-anchor="middle" x="839.7259" y="-145" font-family="Times,serif" font-size="14.00" fill="#000000">1008 :: California </text>
+<text text-anchor="middle" x="839.7259" y="-128.2" font-family="Times,serif" font-size="14.00" fill="#000000"> (1847 - 1848)</text>
+</g>
+<!-- 1004&#45;&gt;1008 -->
+<g id="edge7" class="edge">
+<title>1004-&gt;1008</title>
+<path fill="none" stroke="#008b00" d="M699.3078,-123.6097C723.1159,-126.5244 747.845,-129.5517 769.7947,-132.2389"/>
+<polygon fill="#008b00" stroke="#008b00" points="769.6482,-135.747 779.9994,-133.4882 770.4989,-128.7989 769.6482,-135.747"/>
+</g>
+<!-- 1005 -->
+<g id="node8" class="node">
+<title>1005</title>
+<polygon fill="none" stroke="#008b00" points="887.434,-101.4019 796.0179,-101.4019 792.0179,-97.4019 792.0179,-60.1981 883.434,-60.1981 887.434,-64.1981 887.434,-101.4019"/>
+<polyline fill="none" stroke="#008b00" points="883.434,-97.4019 792.0179,-97.4019 "/>
+<polyline fill="none" stroke="#008b00" points="883.434,-97.4019 883.434,-60.1981 "/>
+<polyline fill="none" stroke="#008b00" points="883.434,-97.4019 887.434,-101.4019 "/>
+<text text-anchor="middle" x="839.7259" y="-85" font-family="Times,serif" font-size="14.00" fill="#000000">1005 :: Texas </text>
+<text text-anchor="middle" x="839.7259" y="-68.2" font-family="Times,serif" font-size="14.00" fill="#000000"> ( - 1848)</text>
+</g>
+<!-- 1004&#45;&gt;1005 -->
+<g id="edge8" class="edge">
+<title>1004-&gt;1005</title>
+<path fill="none" stroke="#008b00" d="M699.3078,-97.9903C727.5369,-94.5344 757.0607,-90.9201 781.7111,-87.9023"/>
+<polygon fill="#008b00" stroke="#008b00" points="782.4586,-91.337 791.9591,-86.6477 781.6079,-84.3889 782.4586,-91.337"/>
+</g>
+<!-- 1009 -->
+<g id="node4" class="node">
+<title>1009</title>
+<polygon fill="none" stroke="#008b00" points="138.1871,-111.4019 23.3347,-111.4019 19.3347,-107.4019 19.3347,-70.1981 134.1871,-70.1981 138.1871,-74.1981 138.1871,-111.4019"/>
+<polyline fill="none" stroke="#008b00" points="134.1871,-107.4019 19.3347,-107.4019 "/>
+<polyline fill="none" stroke="#008b00" points="134.1871,-107.4019 134.1871,-70.1981 "/>
+<polyline fill="none" stroke="#008b00" points="134.1871,-107.4019 138.1871,-111.4019 "/>
+<text text-anchor="middle" x="78.7609" y="-95" font-family="Times,serif" font-size="14.00" fill="#000000">1009 :: Iréchekua </text>
+<text text-anchor="middle" x="78.7609" y="-78.2" font-family="Times,serif" font-size="14.00" fill="#000000"> (1300 - 1530)</text>
+</g>
+<!-- 1009&#45;&gt;1010 -->
+<g id="edge3" class="edge">
+<title>1009-&gt;1010</title>
+<path fill="none" stroke="#008b00" d="M138.096,-95.6414C151.9268,-96.77 167.2368,-98.0192 182.9592,-99.3021"/>
+<polygon fill="#008b00" stroke="#008b00" points="183.0877,-102.8241 193.3393,-100.149 183.6571,-95.8473 183.0877,-102.8241"/>
+</g>
+<!-- 1006 -->
+<g id="node6" class="node">
+<title>1006</title>
+<polygon fill="none" stroke="#008b00" points="1160.006,-67.6647 1160.006,-93.9353 1109.6627,-112.5113 1038.4665,-112.5113 988.1232,-93.9353 988.1232,-67.6647 1038.4665,-49.0887 1109.6627,-49.0887 1160.006,-67.6647"/>
+<polygon fill="none" stroke="#008b00" points="1164.0159,-64.8945 1164.0159,-96.7055 1110.3833,-116.4952 1037.746,-116.4952 984.1134,-96.7055 984.1134,-64.8945 1037.746,-45.1048 1110.3833,-45.1048 1164.0159,-64.8945"/>
+<polygon fill="none" stroke="#008b00" points="1168.0257,-62.1243 1168.0257,-99.4757 1111.1038,-120.4792 1037.0254,-120.4792 980.1035,-99.4757 980.1035,-62.1243 1037.0254,-41.1208 1111.1038,-41.1208 1168.0257,-62.1243"/>
+<text text-anchor="middle" x="1074.0646" y="-85" font-family="Times,serif" font-size="14.00" fill="#000000">1006 :: EEUU </text>
+<text text-anchor="middle" x="1074.0646" y="-68.2" font-family="Times,serif" font-size="14.00" fill="#000000"> (17 - actualidad)</text>
+</g>
+<!-- 1008&#45;&gt;1006 -->
+<g id="edge4" class="edge">
+<title>1008-&gt;1006</title>
+<path fill="none" stroke="#008b00" d="M899.4658,-125.5042C923.4993,-119.3507 951.8156,-112.1006 978.5698,-105.2505"/>
+<polygon fill="#008b00" stroke="#008b00" points="979.5257,-108.6187 988.3451,-102.7476 977.7894,-101.8374 979.5257,-108.6187"/>
+</g>
+<!-- 1007 -->
+<g id="node7" class="node">
+<title>1007</title>
+<polygon fill="none" stroke="#0000ff" points="944.4429,-41.4019 739.009,-41.4019 735.009,-37.4019 735.009,-.1981 940.4429,-.1981 944.4429,-4.1981 944.4429,-41.4019"/>
+<polyline fill="none" stroke="#0000ff" points="940.4429,-37.4019 735.009,-37.4019 "/>
+<polyline fill="none" stroke="#0000ff" points="940.4429,-37.4019 940.4429,-.1981 "/>
+<polyline fill="none" stroke="#0000ff" points="940.4429,-37.4019 944.4429,-41.4019 "/>
+<text text-anchor="middle" x="839.7259" y="-25" font-family="Times,serif" font-size="14.00" fill="#000000">1007 :: Reino de la Gran Bretaña </text>
+<text text-anchor="middle" x="839.7259" y="-8.2" font-family="Times,serif" font-size="14.00" fill="#000000"> (1707 - 1801)</text>
+</g>
+<!-- 1007&#45;&gt;1006 -->
+<g id="edge5" class="edge">
+<title>1007-&gt;1006</title>
+<path fill="none" stroke="#0000ff" d="M920.372,-41.4486C939.173,-46.2624 959.3681,-51.4331 978.7375,-56.3925"/>
+<polygon fill="#0000ff" stroke="#0000ff" points="977.9178,-59.7954 988.4734,-58.8853 979.6541,-53.0142 977.9178,-59.7954"/>
+</g>
+<!-- 1005&#45;&gt;1006 -->
+<g id="edge6" class="edge">
+<title>1005-&gt;1006</title>
+<path fill="none" stroke="#008b00" d="M887.7134,-80.8C911.5498,-80.8 941.3377,-80.8 970.0573,-80.8"/>
+<polygon fill="#008b00" stroke="#008b00" points="970.1597,-84.3001 980.1596,-80.8 970.1596,-77.3001 970.1597,-84.3001"/>
+</g>
+<!-- 1003 -->
+<g id="node9" class="node">
+<title>1003</title>
+<polygon fill="none" stroke="#000000" points="415.8379,-299.4019 235.9107,-299.4019 231.9107,-295.4019 231.9107,-258.1981 411.8379,-258.1981 415.8379,-262.1981 415.8379,-299.4019"/>
+<polyline fill="none" stroke="#000000" points="411.8379,-295.4019 231.9107,-295.4019 "/>
+<polyline fill="none" stroke="#000000" points="411.8379,-295.4019 411.8379,-258.1981 "/>
+<polyline fill="none" stroke="#000000" points="411.8379,-295.4019 415.8379,-299.4019 "/>
+<text text-anchor="middle" x="323.8743" y="-283" font-family="Times,serif" font-size="14.00" fill="#000000">1003 :: Togolandia Británica </text>
+<text text-anchor="middle" x="323.8743" y="-266.2" font-family="Times,serif" font-size="14.00" fill="#000000"> (1916 - )</text>
+</g>
+<!-- 1002 -->
+<g id="node10" class="node">
+<title>1002</title>
+<polygon fill="none" stroke="#000000" points="413.6649,-239.4019 238.0836,-239.4019 234.0836,-235.4019 234.0836,-198.1981 409.6649,-198.1981 413.6649,-202.1981 413.6649,-239.4019"/>
+<polyline fill="none" stroke="#000000" points="409.6649,-235.4019 234.0836,-235.4019 "/>
+<polyline fill="none" stroke="#000000" points="409.6649,-235.4019 409.6649,-198.1981 "/>
+<polyline fill="none" stroke="#000000" points="409.6649,-235.4019 413.6649,-239.4019 "/>
+<text text-anchor="middle" x="323.8743" y="-223" font-family="Times,serif" font-size="14.00" fill="#000000">1002 :: Togolandia Francesa </text>
+<text text-anchor="middle" x="323.8743" y="-206.2" font-family="Times,serif" font-size="14.00" fill="#000000"> (1916 - 1960)</text>
+</g>
+<!-- 1001 -->
+<g id="node11" class="node">
+<title>1001</title>
+<polygon fill="none" stroke="#000000" points="691.0672,-205.6647 691.0672,-231.9353 634.6003,-250.5113 554.744,-250.5113 498.2771,-231.9353 498.2771,-205.6647 554.744,-187.0887 634.6003,-187.0887 691.0672,-205.6647"/>
+<polygon fill="none" stroke="#000000" points="695.0651,-202.7845 695.0651,-234.8155 635.2431,-254.4952 554.1012,-254.4952 494.2792,-234.8155 494.2792,-202.7845 554.1012,-183.1048 635.2431,-183.1048 695.0651,-202.7845"/>
+<polygon fill="none" stroke="#000000" points="699.063,-199.9043 699.063,-237.6957 635.886,-258.4792 553.4583,-258.4792 490.2813,-237.6957 490.2813,-199.9043 553.4583,-179.1208 635.886,-179.1208 699.063,-199.9043"/>
+<text text-anchor="middle" x="594.6721" y="-223" font-family="Times,serif" font-size="14.00" fill="#000000">1001 :: Togo </text>
+<text text-anchor="middle" x="594.6721" y="-206.2" font-family="Times,serif" font-size="14.00" fill="#000000"> (1960 - actualidad)</text>
+</g>
+<!-- 1002&#45;&gt;1001 -->
+<g id="edge9" class="edge">
+<title>1002-&gt;1001</title>
+<path fill="none" stroke="#000000" d="M413.6699,-218.8C434.8981,-218.8 457.8197,-218.8 479.983,-218.8"/>
+<polygon fill="#000000" stroke="#000000" points="480.104,-222.3001 490.104,-218.8 480.104,-215.3001 480.104,-222.3001"/>
+</g>
+<!-- 1000 -->
+<g id="node12" class="node">
+<title>1000</title>
+<polygon fill="none" stroke="#0000ff" points="157.2834,-250.4019 4.2384,-250.4019 .2384,-246.4019 .2384,-209.1981 153.2834,-209.1981 157.2834,-213.1981 157.2834,-250.4019"/>
+<polyline fill="none" stroke="#0000ff" points="153.2834,-246.4019 .2384,-246.4019 "/>
+<polyline fill="none" stroke="#0000ff" points="153.2834,-246.4019 153.2834,-209.1981 "/>
+<polyline fill="none" stroke="#0000ff" points="153.2834,-246.4019 157.2834,-250.4019 "/>
+<text text-anchor="middle" x="78.7609" y="-234" font-family="Times,serif" font-size="14.00" fill="#000000">1000 :: Imperio Alemán </text>
+<text text-anchor="middle" x="78.7609" y="-217.2" font-family="Times,serif" font-size="14.00" fill="#000000"> (1884 - 1916)</text>
+</g>
+<!-- 1000&#45;&gt;1003 -->
+<g id="edge10" class="edge">
+<title>1000-&gt;1003</title>
+<path fill="none" stroke="#0000ff" d="M157.3277,-245.5061C177.8496,-249.6086 200.2688,-254.0903 221.8177,-258.3981"/>
+<polygon fill="#0000ff" stroke="#0000ff" points="221.1553,-261.8349 231.6474,-260.3632 222.5275,-254.9707 221.1553,-261.8349"/>
+</g>
+<!-- 1000&#45;&gt;1002 -->
+<g id="edge11" class="edge">
+<title>1000-&gt;1002</title>
+<path fill="none" stroke="#0000ff" d="M157.3277,-226.2741C178.4567,-225.3259 201.597,-224.2875 223.728,-223.2943"/>
+<polygon fill="#0000ff" stroke="#0000ff" points="223.9814,-226.7865 233.8144,-222.8416 223.6675,-219.7936 223.9814,-226.7865"/>
+</g>
+</g>
+</svg>

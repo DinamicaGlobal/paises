@@ -1,0 +1,24 @@
+digraph {
+rankdir=LR;
+1011 [shape=box3d color=green4 label="1009 :: Xécora \n (1493 - 1722)"];
+1011 -> 1010 [color=green4]
+1010 [shape=tripleoctagon color=blue label="1010 :: Imperio Español \n (1492 - Actualidad)"];
+1010 -> 1004 [color=green4]
+1009 [shape=box3d color=green4 label="1009 :: Iréchekua \n (1300 - 1530)"];
+1009 -> 1010 [color=green4]
+1008 [shape=box3d color=green4 label="1008 :: California \n (1847 - 1848)"];
+1008 -> 1006[color=green4]
+1007 [shape=box3d color=blue label="1007 :: Reino de la Gran Bretaña \n (1707 - 1801)"];
+1007 -> 1006[color=blue]
+1006 [shape=tripleoctagon color=green4 label="1006 :: EEUU \n (17 - actualidad)"];
+1005 [shape=box3d color=green4 label="1005 :: Texas \n ( - 1848)"];
+1005 -> 1006 [color=green4]
+1004 [shape=tripleoctagon color=green4 label="1004 :: México \n (1821 - actualidad)"];
+1004 -> {1005 1008} [color=green4]
+1003 [shape=box3d color=black label="1003 :: Togolandia Británica \n (1916 - )"];
+1002 [shape=box3d color=black label="1002 :: Togolandia Francesa \n (1916 - 1960)"];
+1002 -> 1001 [color=black]
+1001 [shape=tripleoctagon color=black label="1001 :: Togo \n (1960 - actualidad)"];
+1000 [shape=box3d color=blue label="1000 :: Imperio Alemán \n (1884 - 1916)"];
+1000 -> {1002 1003} [color=blue]
+}
